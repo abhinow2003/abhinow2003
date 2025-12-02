@@ -5,7 +5,7 @@
 
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+I'm+Abhinav+M+Rajesh+👋;Software+Engineer+@+UST;Flutter+%7C+Firebase+%7C+Spring+Boot+%7C+React;Turning+Ideas+Into+Reality+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+I'm+Abhinav+M+Rajesh+👋;">
 </p>
 
 ---
@@ -32,9 +32,9 @@ I aim to create products that look good, work smoothly, and solve real problems.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhinow2003&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinow2003&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -43,7 +43,7 @@ I aim to create products that look good, work smoothly, and solve real problems.
 <h1 align="center">🔥 Streak Stats</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=abhinow2003&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,7 +51,7 @@ I aim to create products that look good, work smoothly, and solve real problems.
 <h1 align="center">📈 Contribution Graph</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinow2003&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ I aim to create products that look good, work smoothly, and solve real problems.
 <h1 align="center">🐍 Snake Animation</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/abhinow2003/abhinow2003/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
