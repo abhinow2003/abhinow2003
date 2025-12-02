@@ -1,6 +1,6 @@
 <!-- Banner (Working New GIF) -->
 <p align="center">
-  <img src="abhinav.png" width="100%" alt="banner">
+  <img src="abhinav (2).png" width="100%" alt="banner">
 </p>
 
 <!-- Typing Header -->
