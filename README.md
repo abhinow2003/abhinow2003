@@ -1,6 +1,6 @@
 <!-- Banner (Working New GIF) -->
 <p align="center">
-  <img src="https://i.imgur.com/V9Y7FqX.gif" width="100%" alt="banner">
+  <img src="abhinav.png" width="100%" alt="banner">
 </p>
 
 <!-- Typing Header -->
