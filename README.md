@@ -1,11 +1,11 @@
-<!-- Banner -->
+<!-- Banner (Working New GIF) -->
 <p align="center">
-  <img src="https://i.imgur.com/3TqVQmD.gif" width="100%" alt="banner">
+  <img src="https://i.imgur.com/V9Y7FqX.gif" width="100%" alt="banner">
 </p>
 
 <!-- Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+I'm+Abhinav+M+Rajesh+👋;">
+  <img src="https://readme-typing-svg.demolab.com?size=30&duration=3500&color=00FFFF&center=true&vCenter=true&width=650&lines=Hey+I'm+Abhinav+M+Rajesh+👋;">
 </p>
 
 ---
@@ -32,9 +32,10 @@ I aim to create products that look good, work smoothly, and solve real problems.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhinow2003&show_icons=true&theme=tokyonight&hide_border=true" />
+<!-- NEW WORKING GITHUB STATS API -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhinow2003&show_icons=true&theme=tokyonight&border_radius=10" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinow2003&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinow2003&layout=compact&theme=tokyonight&border_radius=10" />
 
 </div>
 
@@ -43,7 +44,7 @@ I aim to create products that look good, work smoothly, and solve real problems.
 <h1 align="center">🔥 Streak Stats</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhinow2003&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abhinow2003&theme=tokyonight&hide_border=false&border_radius=10" />
 </p>
 
 ---
@@ -51,13 +52,14 @@ I aim to create products that look good, work smoothly, and solve real problems.
 <h1 align="center">📈 Contribution Graph</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinow2003&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinow2003&theme=react-dark&border_radius=10" />
 </p>
 
 ---
 
 <h1 align="center">🐍 Snake Animation</h1>
 
+<!-- NOTE: This will work ONLY after workflow setup -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhinow2003/abhinow2003/output/github-contribution-grid-snake.svg">
 </p>
@@ -71,7 +73,7 @@ A full social + utility mobile app with events, chat, posts, lost & found and mo
 **Tech:** Flutter, Firebase, Node Backend
 
 ### 🩺 **Patient Management System**
-Capstone project for managing patients, appointments, medical workflow.  
+Capstone project for managing patients, appointments, and workflow.  
 **Tech:** Spring Boot, React, MySQL
 
 ### 💬 **Real-Time Chat App**
